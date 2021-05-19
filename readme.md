@@ -1,5 +1,5 @@
-Düymələrdən başqa mouse scrollundan istifadə edərək də zoom in-out edə bilərsiniz
+You can also use mouse scroll to zoom in - out
 
-Edit edərkən və ya create edərkən enterə basaraq save edə bilərsiniz
+When you're editing or adding new chart you can press "enter" to save chart
 
-Chart draggabledir. Drag drop edə bilərsiniz.
+Chart is draggable
